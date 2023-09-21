@@ -1,0 +1,326 @@
+# depslib dependency file v1.0
+1679055082 source:d:\college stuff\year 2\programming\many codes\computerproject1\main.cpp
+	<iostream>
+	<limits>
+	"Part.h"
+	"CPU.h"
+	"Speakers.h"
+	"GPU.h"
+	"Motherboard.h"
+
+1679057395 source:d:\college stuff\year 2\programming\many codes\computerproject1\src\cpu.cpp
+	"CPU.h"
+	<string>
+	<iostream>
+	"Part.h"
+
+1679057626 d:\college stuff\year 2\programming\many codes\computerproject1\include\cpu.h
+	"Part.h"
+	<string>
+
+1679053890 d:\college stuff\year 2\programming\many codes\computerproject1\include\part.h
+	<string>
+	<iostream>
+
+1679055570 source:d:\college stuff\year 2\programming\many codes\computerproject1\src\part.cpp
+	"Part.h"
+	<iostream>
+
+1679057555 source:d:\college stuff\year 2\programming\many codes\computerproject1\src\speakers.cpp
+	"Speakers.h"
+	<string>
+	<iostream>
+	"Part.h"
+
+1679057719 d:\college stuff\year 2\programming\many codes\computerproject1\include\speakers.h
+	<Part.h>
+	<string>
+
+1679057959 source:d:\college stuff\year 2\programming\many codes\computerproject1\src\pc.cpp
+	<string>
+	<iostream>
+	"PC.h"
+
+1679057920 d:\college stuff\year 2\programming\many codes\computerproject1\include\pc.h
+	"Part.h"
+	<string>
+	<vector>
+
+1679057659 source:d:\college stuff\year 2\programming\many codes\computerproject1\src\gpu.cpp
+	"GPU.h"
+
+1679057613 d:\college stuff\year 2\programming\many codes\computerproject1\include\gpu.h
+	<iostream>
+	"Part.h"
+	<string>
+
+1679057677 source:d:\college stuff\year 2\programming\many codes\computerproject1\src\motherboard.cpp
+	"Motherboard.h"
+
+1679057698 d:\college stuff\year 2\programming\many codes\computerproject1\include\motherboard.h
+	<string>
+	"Part.h"
+
+1679059139 source:d:\college stuff\year 2\programming\many codes\vladimirasgnm2\src\cpu.cpp
+	"CPU.h"
+	<string>
+	<iostream>
+	"Part.h"
+
+1679131284 d:\college stuff\year 2\programming\many codes\vladimirasgnm2\include\cpu.h
+	"Part.h"
+	<string>
+
+1679131798 d:\college stuff\year 2\programming\many codes\vladimirasgnm2\include\part.h
+	<string>
+	<iostream>
+
+1679131334 source:d:\college stuff\year 2\programming\many codes\vladimirasgnm2\src\gpu.cpp
+	"GPU.h"
+	<iostream>
+
+1679130859 d:\college stuff\year 2\programming\many codes\vladimirasgnm2\include\gpu.h
+	<iostream>
+	"Part.h"
+	<string>
+
+1679131329 source:d:\college stuff\year 2\programming\many codes\vladimirasgnm2\src\motherboard.cpp
+	"Motherboard.h"
+	<iostream>
+
+1679130507 d:\college stuff\year 2\programming\many codes\vladimirasgnm2\include\motherboard.h
+	<string>
+	"Part.h"
+
+1679055570 source:d:\college stuff\year 2\programming\many codes\vladimirasgnm2\src\part.cpp
+	"Part.h"
+	<iostream>
+
+1679129761 source:d:\college stuff\year 2\programming\many codes\vladimirasgnm2\src\speakers.cpp
+	"Speakers.h"
+	<string>
+	<iostream>
+	"Part.h"
+
+1679131807 d:\college stuff\year 2\programming\many codes\vladimirasgnm2\include\speakers.h
+	<Part.h>
+	<string>
+
+1679130529 source:d:\college stuff\year 2\programming\many codes\vladimirasgnm2\src\pc.cpp
+	<string>
+	<iostream>
+	"PC.h"
+	"CPU.h"
+	"GPU.h"
+	"Motherboard.h"
+	"Speakers.h"
+
+1679130403 d:\college stuff\year 2\programming\many codes\vladimirasgnm2\include\pc.h
+	"Part.h"
+	<vector>
+	"Part.h"
+
+1679131438 source:d:\college stuff\year 2\programming\many codes\vladimirasgnm2\main.cpp
+	<iostream>
+	"CPU.h"
+	"GPU.h"
+	"Motherboard.h"
+	"Speakers.h"
+	"PC.h"
+	<string>
+	<limits>
+
+1681212203 source:d:\college stuff\year 2\programming\many codes\sem2finalassignment\src\cpu.cpp
+	"CPU.h"
+	<string>
+	<iostream>
+	<fstream>
+	"Part.h"
+
+1681212575 d:\college stuff\year 2\programming\many codes\sem2finalassignment\include\cpu.h
+	"Part.h"
+	<string>
+
+1681209107 d:\college stuff\year 2\programming\many codes\sem2finalassignment\include\part.h
+	<string>
+	<iostream>
+	<string>
+	<iostream>
+
+1681213368 source:d:\college stuff\year 2\programming\many codes\sem2finalassignment\src\gpu.cpp
+	"GPU.h"
+	<iostream>
+	<fstream>
+
+1681212590 d:\college stuff\year 2\programming\many codes\sem2finalassignment\include\gpu.h
+	<iostream>
+	"Part.h"
+	<string>
+
+1681212983 source:d:\college stuff\year 2\programming\many codes\sem2finalassignment\src\motherboard.cpp
+	"Motherboard.h"
+	<iostream>
+	<fstream>
+
+1681208399 d:\college stuff\year 2\programming\many codes\sem2finalassignment\include\motherboard.h
+	<string>
+	"Part.h"
+	<string>
+	"Part.h"
+
+1681213105 source:d:\college stuff\year 2\programming\many codes\sem2finalassignment\src\part.cpp
+	"Part.h"
+	<iostream>
+
+1681213140 source:d:\college stuff\year 2\programming\many codes\sem2finalassignment\src\pc.cpp
+	<string>
+	<iostream>
+	"PC.h"
+	"CPU.h"
+	"GPU.h"
+	"Motherboard.h"
+	"Speakers.h"
+	<algorithm>
+	<fstream>
+	<iostream>
+	"PC.h"
+	"CPU.h"
+	"GPU.h"
+	"Motherboard.h"
+	"Speakers.h"
+	<algorithm>
+	<iostream>
+	"PC.h"
+	"CPU.h"
+	"GPU.h"
+	"Motherboard.h"
+	"Speakers.h"
+	<algorithm>
+
+1681211365 d:\college stuff\year 2\programming\many codes\sem2finalassignment\include\pc.h
+	"Part.h"
+	<vector>
+	"Part.h"
+	<algorithm>
+	<vector>
+	"Part.h"
+	<algorithm>
+
+1681212218 d:\college stuff\year 2\programming\many codes\sem2finalassignment\include\speakers.h
+	<Part.h>
+	<string>
+
+1681212584 source:d:\college stuff\year 2\programming\many codes\sem2finalassignment\src\speakers.cpp
+	"Speakers.h"
+	<string>
+	<iostream>
+	"Part.h"
+	<fstream>
+
+1681209005 source:d:\college stuff\year 2\programming\many codes\sem2finalassignment\main.cpp
+	<iostream>
+	"CPU.h"
+	"GPU.h"
+	"Motherboard.h"
+	"Speakers.h"
+	"PC.h"
+	<string>
+	<limits>
+
+1682937533 source:c:\users\ruán mulligan\downloads\v1.420 (all done - dynamic in cpu and comments)\all done - dynamic in cpu and comments\main.cpp
+	<iostream>
+	"CPU.h"
+	"GPU.h"
+	"Motherboard.h"
+	"Speakers.h"
+	"PC.h"
+	<string>
+	<limits>
+
+1682935477 c:\users\ruán mulligan\downloads\v1.420 (all done - dynamic in cpu and comments)\all done - dynamic in cpu and comments\include\cpu.h
+	"Part.h"
+	<string>
+
+1682935477 c:\users\ruán mulligan\downloads\v1.420 (all done - dynamic in cpu and comments)\all done - dynamic in cpu and comments\include\part.h
+	<string>
+	<iostream>
+	<string>
+	<iostream>
+
+1682935477 c:\users\ruán mulligan\downloads\v1.420 (all done - dynamic in cpu and comments)\all done - dynamic in cpu and comments\include\gpu.h
+	<iostream>
+	"Part.h"
+	<string>
+
+1682935477 c:\users\ruán mulligan\downloads\v1.420 (all done - dynamic in cpu and comments)\all done - dynamic in cpu and comments\include\motherboard.h
+	<string>
+	"Part.h"
+	<string>
+	"Part.h"
+
+1682935477 c:\users\ruán mulligan\downloads\v1.420 (all done - dynamic in cpu and comments)\all done - dynamic in cpu and comments\include\speakers.h
+	<Part.h>
+	<string>
+
+1682935477 c:\users\ruán mulligan\downloads\v1.420 (all done - dynamic in cpu and comments)\all done - dynamic in cpu and comments\include\pc.h
+	"Part.h"
+	<vector>
+	"Part.h"
+	<algorithm>
+	<vector>
+	"Part.h"
+	<algorithm>
+
+1682935477 source:c:\users\ruán mulligan\downloads\v1.420 (all done - dynamic in cpu and comments)\all done - dynamic in cpu and comments\src\cpu.cpp
+	"CPU.h"
+	<string>
+	<iostream>
+	<fstream>
+	"Part.h"
+
+1682935477 source:c:\users\ruán mulligan\downloads\v1.420 (all done - dynamic in cpu and comments)\all done - dynamic in cpu and comments\src\gpu.cpp
+	"GPU.h"
+	<iostream>
+	<fstream>
+
+1682935477 source:c:\users\ruán mulligan\downloads\v1.420 (all done - dynamic in cpu and comments)\all done - dynamic in cpu and comments\src\motherboard.cpp
+	"Motherboard.h"
+	<iostream>
+	<fstream>
+
+1682935477 source:c:\users\ruán mulligan\downloads\v1.420 (all done - dynamic in cpu and comments)\all done - dynamic in cpu and comments\src\part.cpp
+	"Part.h"
+	<iostream>
+
+1682935477 source:c:\users\ruán mulligan\downloads\v1.420 (all done - dynamic in cpu and comments)\all done - dynamic in cpu and comments\src\pc.cpp
+	<string>
+	<iostream>
+	"PC.h"
+	"CPU.h"
+	"GPU.h"
+	"Motherboard.h"
+	"Speakers.h"
+	<algorithm>
+	<fstream>
+	<iostream>
+	"PC.h"
+	"CPU.h"
+	"GPU.h"
+	"Motherboard.h"
+	"Speakers.h"
+	<algorithm>
+	<iostream>
+	"PC.h"
+	"CPU.h"
+	"GPU.h"
+	"Motherboard.h"
+	"Speakers.h"
+	<algorithm>
+
+1682935477 source:c:\users\ruán mulligan\downloads\v1.420 (all done - dynamic in cpu and comments)\all done - dynamic in cpu and comments\src\speakers.cpp
+	"Speakers.h"
+	<string>
+	<iostream>
+	"Part.h"
+	<fstream>
+

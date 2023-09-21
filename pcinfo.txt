@@ -1,0 +1,30 @@
+540
+4
+1
+0
+4
+CPU
+AMD ryzen 5 3600x
+200
+2
+4
+GPU
+Nvidia 1060
+230
+6
+2
+1
+1
+1506
+Motherboard
+Gigabyte b450m
+75
+6
+am4
+4
+4
+Speakers
+Altec Lansing 221
+25
+3
+1
